@@ -10,7 +10,8 @@
 
 **Modular tools for developers who want to learn, build, and own their data workflows—with clarity, control, and confidence.**
 
-Welcome to **Nexicore Digitals** — a developer-focused company building a modular ecosystem of tools for **dataset management, API scaffolding, DevOps automation, and AI-assisted learning**.  
+Welcome to **Nexicore Digitals** — a developer-focused company building a modular ecosystem of tools for **dataset management, API scaffolding, DevOps automation, and AI-assisted learning**, We are also the team behind **NexiTrade**, the B2B Escrow & Dispatch Marketplace.
+.  
 
 Our goal:  
 ➡️ Make data workflows transparent, modular, and educational.  
@@ -35,12 +36,8 @@ All Nexicore projects follow the `nexus-` prefix, signaling modularity and brand
 | Project | Description |
 |---------|-------------|
 | [`nexus-dsm-toolkit`](https://github.com/nexicore-digitals/nexus-dsm-toolkit) | Core TypeScript library for parsing, validating, and transforming datasets (CSV ↔ JSON). |
-| [`nexus-dsm-ui`](https://github.com/nexicore-digitals/nexus-dsm-ui) | Cross-platform desktop UI (built with Wails + React) for visual dataset management. |
-| `nexus-api-scaffold` | CLI/utility to generate API endpoints from validated JSON schemas. |
-| `nexus-devops-checks` | Reusable GitHub Actions for formatting, linting, and test automation. |
-| `nexus-nexi-agent` | AI assistant for schema validation, error feedback, and guided automation. |
-| `nexus-docs` | Centralized documentation, guides, and onboarding material. |
-| `nexus-plugins` | Optional modules for new data sources, export formats, and visualizations. |
+| nexitrade-web | The Next.js frontend for the NexiTrade Escrow Marketplace. | 🔒 Internal |
+| nexitrade-api | The Fastify core backend for the NexiTrade Escrow Ledger. | 🔒 Internal |
 
 ---
 
@@ -153,7 +150,7 @@ Star a repo ⭐, open an issue 🐛, or reach out to collaborate.
 
 ## 🧠 Founder
 
-Built and maintained by [**Owen**](https://github.com/owen-6936) — full-stack developer, DX educator, and architect of the **Nexus ecosystem**.  
+Built and maintained by [**Owen**](https://github.com/owen-6936) — full-stack developer, DX educator, and architect of the **Nexus ecosystem** and **NexiTrade**.  
 
 ---
 
